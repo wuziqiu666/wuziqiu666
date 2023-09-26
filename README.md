@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wuziqiu666
-- 👀 I’m interested in JAVA/PYTHON/Spring/VIM/OpencV
-- 🌱 I’m currently learning Spring cloud/kafka/Elasticsearch
-- 💞️ I’m looking to collaborate on Communication University Of China
+- 👀 I’m interested in JAVA/go/python/Spring/VIM/OpencV
+- 🌱 I’m currently learning Spring cloud/gin
+- 💞️ I’m looking to collaborate on go
 - 📫 How to reach me : wuziqiu666@outlook.com
 
 <!---
